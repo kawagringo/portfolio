@@ -1,0 +1,9 @@
+.icon-user:before { content: '\e800'; font-size: 80px; margin-top: 20px; } /* '' */
+.icon-mail:before { content: '\e801'; font-size: 80px; margin-top: 20px; } /* '' */
+.icon-graduation-cap:before { content: '\e802'; font-size: 80px; margin-top: 20px; } /* '' */
+.icon-twitter:before { content: '\f099'; font-size: 80px; margin-top: 40px; } /* '' */
+.icon-facebook:before { content: '\f09a'; font-size: 80px; margin-top: 40px; } /* '' */
+.icon-gplus:before { content: '\f0d5'; font-size: 80px; margin-top: 40px; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
+.icon-laptop:before { content: '\f109'; font-size: 80px; margin-top: 20px; } /* '' */
+.icon-youtube:before { content: '\f167'; font-size: 80px; margin-top: 40px; } /* '' */

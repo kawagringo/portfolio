@@ -59,6 +59,36 @@
       "css": "graduation-cap",
       "code": 59394,
       "src": "entypo"
+    },
+    {
+      "uid": "2cfac2c1a9eb4552af0eba34def4b010",
+      "css": "skype",
+      "code": 59396,
+      "src": "typicons"
+    },
+    {
+      "uid": "01c946ce2ed5500e0a918f2b3a7d1923",
+      "css": "css3",
+      "code": 61756,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "ff44f01f60948555026580eedf1e39bb",
+      "css": "html5",
+      "code": 61755,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "a42f298da5c64e646a5d532724cd6e15",
+      "css": "home",
+      "code": 59395,
+      "src": "typicons"
+    },
+    {
+      "uid": "58a16628dcbd6456c61218f3d27591be",
+      "css": "skype-1",
+      "code": 61822,
+      "src": "fontawesome"
     }
   ]
 }

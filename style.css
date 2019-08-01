@@ -11,6 +11,7 @@ body
     height: 900px;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 30px;
 }
 
 .rectangle
@@ -36,7 +37,6 @@ body
     font-family: 'Josefin Sans', sans-serif;
     font-size: 70px;
     width: 600px;
-    
 }
 
 #clock
@@ -72,15 +72,26 @@ background-color: #0062a0;
     text-align: center;
 }
 
+.tile2:hover
+{
+background-color: #444444;
+}
+
 .tile3
 {
     margin: 10px;
     width: 280px;
     height: 173px;
-    background-color: rgb(81, 185, 21);
+    background-color: #00ff00;
     float: left;
     text-align: center;
 }
+
+.tile3:hover
+{
+background-color: green;
+}
+
 .tile4
 {
     margin: 10px;
@@ -97,11 +108,13 @@ background-color: #0062a0;
 .tile5
 {
     margin: 10px;
-    width: 560px;
-    height: 366px;
+    width: 500px;
+    height: 306px;
     background-color: #666666;
     float: left;
-    text-align: center;
+    text-align: justify;
+    padding: 30px;
+
 }
 
 .yt
@@ -113,6 +126,11 @@ background-color: #0062a0;
     float: left;
 }
 
+.yt:hover
+{
+background-color: #c4302b9d;
+}
+
 .fb
 {
     margin: 10px;
@@ -122,13 +140,23 @@ background-color: #0062a0;
     float: left;
 }
 
-.gplus
+.fb:hover
+{
+background-color: #3b5898a1;
+}
+
+.skype
 {
     margin: 10px;
     width: 125px;
     height: 173px;
-    background-color: #DD4B39;
+    background-color: #00aff0;
     float: left;
+}
+
+.skype:hover
+{
+background-color: #00b0f085;
 }
 
 .tw
@@ -138,4 +166,15 @@ background-color: #0062a0;
     height: 173px;
     background-color: #3095d3;
     float: left;
+}
+
+.tw:hover
+{
+background-color: #3094d3ad;
+}
+
+a.tilelink
+{
+    color: #ffffff;
+    text-decoration: none;
 }

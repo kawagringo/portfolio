@@ -2,9 +2,14 @@
 .icon-user:before { content: '\e800'; } /* '' */
 .icon-mail:before { content: '\e801'; } /* '' */
 .icon-graduation-cap:before { content: '\e802'; } /* '' */
+.icon-home:before { content: '\e803'; } /* '' */
+.icon-skype:before { content: '\e804'; } /* '' */
 .icon-twitter:before { content: '\f099'; } /* '' */
 .icon-facebook:before { content: '\f09a'; } /* '' */
 .icon-gplus:before { content: '\f0d5'; } /* '' */
 .icon-mail-alt:before { content: '\f0e0'; } /* '' */
 .icon-laptop:before { content: '\f109'; } /* '' */
+.icon-html5:before { content: '\f13b'; } /* '' */
+.icon-css3:before { content: '\f13c'; } /* '' */
 .icon-youtube:before { content: '\f167'; } /* '' */
+.icon-skype-1:before { content: '\f17e'; } /* '' */
