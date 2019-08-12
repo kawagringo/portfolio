@@ -60,6 +60,7 @@ body
 .tile1:hover
 {
 background-color: #0062a0;
+transform: scale(1.1);
 }
 
 .tile2
@@ -75,6 +76,7 @@ background-color: #0062a0;
 .tile2:hover
 {
 background-color: #444444;
+transform: scale(1.1);
 }
 
 .tile3
@@ -90,6 +92,7 @@ background-color: #444444;
 .tile3:hover
 {
 background-color: green;
+transform: scale(1.1);
 }
 
 .tile4
@@ -97,7 +100,7 @@ background-color: green;
     margin: 10px;
     width: 520px;
     height: 113px;
-    background-color: #f73f07;
+    background: linear-gradient(45deg, #c4302b62, #c4302b);
     float: left;
     text-align: center;
     font-size: 26px;
@@ -110,7 +113,7 @@ background-color: green;
     margin: 10px;
     width: 500px;
     height: 306px;
-    background-color: #666666;
+    background: linear-gradient(45deg, #757575, #4444444b);
     float: left;
     text-align: justify;
     padding: 30px;
@@ -129,6 +132,7 @@ background-color: green;
 .yt:hover
 {
 background-color: #c4302b9d;
+transform: scale(1.1);
 }
 
 .fb
@@ -143,6 +147,7 @@ background-color: #c4302b9d;
 .fb:hover
 {
 background-color: #3b5898a1;
+transform: scale(1.1);
 }
 
 .skype
@@ -157,6 +162,7 @@ background-color: #3b5898a1;
 .skype:hover
 {
 background-color: #00b0f085;
+transform: scale(1.1);
 }
 
 .tw
@@ -171,6 +177,7 @@ background-color: #00b0f085;
 .tw:hover
 {
 background-color: #3094d3ad;
+transform: scale(1.1);
 }
 
 a.tilelink
