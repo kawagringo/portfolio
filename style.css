@@ -116,8 +116,7 @@ transform: scale(1.1);
     margin: 10px;
     width: 500px;
     height: 306px;
-    background-image: url(background.jpg);
-    /*background: linear-gradient(35deg, #757575, #44444407);*/
+    background: linear-gradient(35deg, #757575, #44444407);
     float: left;
     text-align: center;
     font-size: 30px;
@@ -193,4 +192,13 @@ a.tilelink
 {
     color: #ffffff;
     text-decoration: none;
+}
+
+.rectangle a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.rectangle a:hover {
+    color: #00aff0;
 }
