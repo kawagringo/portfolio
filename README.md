@@ -1,2 +1,2 @@
-# portfolio
-Portfolio of Lukasz kawecki OLD
+# Windows 8 style simple personal website template
+
